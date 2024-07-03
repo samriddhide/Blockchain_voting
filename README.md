@@ -1,7 +1,9 @@
-# Decentralized Voting (dVoting)
+# Decentralized Voting (dVoting/Blockchain Voting)
 
 A decentralized voting system based on Ethereum blockchain technology.
 
+# Project Demo
+https://github.com/samriddhide/Blockchain_voting/assets/100946305/9f20bc2f-ea38-43bb-95c2-bd0b1790fe61
 
 ### Requirements
 
